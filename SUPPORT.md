@@ -9,4 +9,4 @@
 | See what is being worked on | The [Public Good Works board](https://github.com/users/cyberdudeuk/projects/4). |
 
 Issues are public: don't include personal data or anything sensitive. Projects are maintained by one person, so
-replies are best effort, normally within 5 working days. There is no telephone or email support.
+replies are best effort. There is no telephone or email support.
