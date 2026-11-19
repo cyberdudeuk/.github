@@ -1,7 +1,7 @@
 # Security
 
 Please report security problems privately, using GitHub's **Report a vulnerability** button on the repository's
-Security tab. Do not open a public issue. We aim to reply within 5 working days, and we will tell you when the problem
+Security tab. Do not open a public issue. We will tell you when the problem
 is fixed.
 
 Every project runs CodeQL code scanning and OpenSSF Scorecard, pins its dependencies and keeps secrets out of code.
