@@ -7,7 +7,7 @@ no file of its own of that kind ([how defaults work](https://docs.github.com/en/
 | File | What it is for |
 |---|---|
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | How we treat each other, and how to report a problem |
-| [CONTRIBUTING.md](CONTRIBUTING.md) | How to suggest a change, and how quickly to expect a reply |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | How to suggest a change, and what happens next |
 | [SECURITY.md](SECURITY.md) | How to report a security problem privately |
 | [SUPPORT.md](SUPPORT.md) | Where to get help |
 | [.github/ISSUE_TEMPLATE/config.yml](.github/ISSUE_TEMPLATE/config.yml) | Links shown when someone opens an issue |
