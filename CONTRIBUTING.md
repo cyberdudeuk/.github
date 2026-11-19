@@ -15,7 +15,6 @@ Thank you for helping. Every project here is built in the open and checked autom
 
 ## What to expect
 
-- We aim to reply to new issues and pull requests within **5 working days**.
 - A pull request is merged once its checks pass and it has been reviewed. If a check fails, the message says why.
 - If you fix a defect, add a check that would have caught it, in the same pull request.
 
