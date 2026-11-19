@@ -23,7 +23,7 @@ every cyberdudeuk repository and anywhere you represent one of its projects.
 ## Reporting a problem
 
 Use the [contact form](https://github.com/cyberdudeuk/cyberdudeuk.github.io/issues/new?template=contact.yml): pick the
-project and describe what happened. You don't need to give your name or email address. We aim to reply within 5 working days. For
+project and describe what happened. You don't need to give your name or email address. For
 security problems, follow [SECURITY.md](SECURITY.md) instead.
 
 ## What happens next
